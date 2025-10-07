@@ -6,7 +6,7 @@ body{
     height: 100vh; /*vh = altura total da tela (viewport height)*/
     width: 100vw; /*largura total da tela(viewport width)*/
 
-    background-image: url('Gradient-PNG-Image-Background.png'); /*Caminho da imagem de fundo*/
+    background-image: url('download.jpg'); /*Caminho da imagem de fundo*/
     background-size: cover; /*Faz a imagem cobrir a tela toda*/
     background-position: center; /*Faz a imagem  cobrir a tela toda*/
     background-repeat: no-repeat; /*Evita que a imagem se repita na tela*/
@@ -33,3 +33,4 @@ body{
 
 
 }
+
